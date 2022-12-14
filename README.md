@@ -37,7 +37,7 @@ I like books, art, intellectual games and learning something new every day.
 
 * Teacher of Russian language and Literature
 * Content-manager
-* Student in RS-School:
+* Student in [RS-School](https://rs.school/index.html):
   * JavaScript/Front-end Pre-School. [Certificate](https://app.rs.school/certificate/e4vb4hoy)
   * JavaScript/Front-end Main course (with Mentor). [Certificate](https://app.rs.school/certificate/zof0t2lh)
   * React (with Mentor). [Certificate](https://app.rs.school/certificate/qalxd4sj)
