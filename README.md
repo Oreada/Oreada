@@ -25,7 +25,7 @@ I like books, art, intellectual games and learning something new every day.
 
 ## **Codewars** ##
 
-![](https://www.codewars.com/users/Oreada/badges/large)
+![](https://www.codewars.com/users/Oreada/badges/small)
 
 ## **Languages** ##
 
