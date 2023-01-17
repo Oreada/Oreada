@@ -19,8 +19,8 @@ I like books, art, intellectual games and learning something new every day.
 ![](https://img.shields.io/badge/-Webpack-black?style=for-the-badge&logo=webpack&logoColor=lightblue)
 ![](https://img.shields.io/badge/-ESLint-black?style=for-the-badge&logo=ESLint&logoColor=purple)
 
-![](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=Tailwind&logoColor=9cf)
 ![](https://img.shields.io/badge/-Material_UI-black?style=for-the-badge&logo=Material_UI&logoColor=blue)
+![](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=Tailwind&logoColor=9cf)
 ![](https://img.shields.io/badge/-Chart_JS-black?style=for-the-badge&logo=Chart_JS&logoColor=blue)
 
 ## **Codewars** ##
