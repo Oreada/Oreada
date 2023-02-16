@@ -2,8 +2,6 @@
 
 I am a beginner React developer.
 
-I like books, art, intellectual games and learning something new every day.
-
 ## **Skills & Technologies** ##
 
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
