@@ -27,7 +27,7 @@ I am a beginner React developer.
 
 ## **Languages** ##
 
-* English: Intermediate (B1)
+* English: Intermediate
 * Romanian: Beginner
 * Russian: Native
 
