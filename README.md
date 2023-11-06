@@ -31,14 +31,15 @@ I am a beginner React developer.
 * Romanian: Beginner
 * Russian: Native
 
-## **Experience** ##
+## **Experience (later first)** ##
 
-* Teacher of Russian language and Literature
-* Content-manager
+* Developer at KPOAmber
 * Student in [RS-School](https://rs.school/index.html):
   * JavaScript/Front-end Pre-School. [Certificate](https://app.rs.school/certificate/e4vb4hoy)
   * JavaScript/Front-end Main course (with Mentor). [Certificate](https://app.rs.school/certificate/zof0t2lh)
   * React (with Mentor). [Certificate](https://app.rs.school/certificate/qalxd4sj)
+* Content-manager
+* Teacher of Russian language and Literature
 
 <!--
 **Oreada/Oreada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
