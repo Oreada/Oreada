@@ -1,6 +1,6 @@
 ## Hi there, I am Olya ##
 
-I am a beginner React developer.
+I am a React developer.
 
 ## **Skills & Technologies** ##
 
