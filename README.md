@@ -27,7 +27,7 @@ I am a React developer.
 
 ## **Languages** ##
 
-* English: Intermediate
+* English: Upper-Intermediate
 * Romanian: Beginner
 * Russian: Native
 
